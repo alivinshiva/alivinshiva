@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alivinshiva
 - 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently learning UI designing 
 - 💞️ I’m looking to collaborate on Android Project
 - 📫  Mail me at alivin612003@gmail.com
   
